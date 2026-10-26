@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" role="img" aria-labelledby="tlTitle">
+  <title id="tlTitle">TrickLess</title>
+  <rect width="64" height="64" rx="14" fill="#12090B"/>
+  <path fill="#E6C34A" d="M32 8 38.9 25.2 57 26.1 42.6 37.4 47.6 55 32 45.6 16.4 55 21.4 37.4 7 26.1 25.1 25.2Z"/>
+  <path fill="#C3122F" d="M29.6 27.2h4.8v14.4h-4.8zM24.8 32h14.4v4.8H24.8z"/>
+  <g fill="#F4EFE6" font-family="Cinzel, Georgia, serif" font-weight="700">
+    <text x="80" y="30" font-size="22" letter-spacing="4">TRICK</text>
+    <text x="80" y="54" font-size="22" letter-spacing="6">LESS</text>
+  </g>
+  <rect x="80" y="36" width="36" height="2" fill="#C3122F"/>
+</svg>

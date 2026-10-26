@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://trickless.art/</loc><changefreq>weekly</changefreq><priority>1</priority></url>
+  <url><loc>https://trickless.art/lp.html</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://trickless.art/musica.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://trickless.art/galeria.html</loc><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://trickless.art/agenda.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://trickless.art/imprensa.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://trickless.art/campanhas.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://trickless.art/identidade.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://trickless.art/contato.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://trickless.art/privacidade.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+</urlset>

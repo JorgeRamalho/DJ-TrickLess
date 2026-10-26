@@ -1,0 +1,22 @@
+{
+  "name": "DJ TrickLess",
+  "short_name": "TrickLess",
+  "description": "Tech House e Bass House de Curitiba. Booking, SERIES EDIT e LP ALTA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070506",
+  "theme_color": "#070506",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "assets/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/brand/apple-touch.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
